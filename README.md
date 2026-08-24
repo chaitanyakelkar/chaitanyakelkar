@@ -56,39 +56,35 @@
 
 <p align="center">
   <a href="https://github.com/chaitanyakelkar/LeagueOn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyakelkar&repo=LeagueOn&theme=default" />
+    <img src="https://github-readme-stats-lac-six-12.vercel.app/api/pin/?username=chaitanyakelkar&repo=LeagueOn&theme=default" />
   </a>
   <a href="https://github.com/chaitanyakelkar/MovieTicketBooking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyakelkar&repo=MovieTicketBooking&theme=default" />
+    <img src="https://github-readme-stats-lac-six-12.vercel.app/api/pin/?username=chaitanyakelkar&repo=MovieTicketBooking&theme=default" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/chaitanyakelkar/CET-College-Preference-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyakelkar&repo=CET-College-Preference-Builder&theme=default" />
+    <img src="https://github-readme-stats-lac-six-12.vercel.app/api/pin/?username=chaitanyakelkar&repo=CET-College-Preference-Builder&theme=default" />
   </a>
 </p>
 
-**League On** — Platform connecting cricket players, teams, and organisers
+**[League On](https://github.com/chaitanyakelkar/LeagueOn)** — Platform connecting cricket players, teams, and organisers
 `MongoDB` `Express` `React` `Node.js` · Player/team registration, social feed, real-time chat, performance stats
 **Role:** Project Lead, Architect & Developer
 
-**Movie Ticket Booking** — Movie booking platform
+**[Movie Ticket Booking](https://github.com/chaitanyakelkar/MovieTicketBooking)** — Movie booking platform
 `MongoDB` `Express` `React` `Node.js` `Inngest` `Stripe` · User management, showtime management, payment processing
 **Role:** Architect & Developer
 
-**CET College Preference Builder** — Lists top colleges based on a user's rank
+**[CET College Preference Builder](https://github.com/chaitanyakelkar/CET-College-Preference-Builder)** — Lists top colleges based on a user's rank
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyakelkar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakelkar&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyakelkar&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-lac-six-12.vercel.app/api?username=chaitanyakelkar&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-lac-six-12.vercel.app/api/top-langs/?username=chaitanyakelkar&layout=compact&hide_border=true" />
 </p>
 
 ---
