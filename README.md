@@ -21,7 +21,7 @@
 
 - 🎓 B.E. Computer Engineering, D.Y. Patil College of Engineering — CGPA 9.14 (2022–2026)
 - 💻 Backend-focused developer — Node.js, Express, MongoDB, with growing depth in Python/Flask
-- ☁️ Basic working knowledge of AWS
+- ☁️ AWS Certified Cloud Practitioner (2026) · [Verify on Credly](https://www.credly.com/badges/0430c060-5e1f-428e-96eb-6e829efc0198)
 - 🤖 Exploring AI-assisted and agentic development workflows (Claude Code, Google AntiGravity)
 - 🏗️ I like owning projects end-to-end — architecture, database design, and API development
 - 📫 Reach me at **chaitanyaakelkar57@gmail.com**
@@ -49,6 +49,16 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 🏅 Certifications
+
+<a href="https://www.credly.com/badges/0430c060-5e1f-428e-96eb-6e829efc0198" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120" />
+</a>
+
+**[AWS Certified Cloud Practitioner](https://www.credly.com/badges/0430c060-5e1f-428e-96eb-6e829efc0198)** — Amazon Web Services, 2026
 
 ---
 
